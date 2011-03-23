@@ -1,6 +1,12 @@
 [submodule "core"]
 	path = core
 	url = git://github.com/frontlinesms/frontlinesms-core.git
+[submodule "dist"]
+	path = dist
+	url = git://github.com/frontlinesms/frontlinesms-dist.git
+[submodule "pom-parent"]
+	path = pom-parent
+	url = git://github.com/frontlinesms/frontlinesms-pom-parent.git
 [submodule "plugin-forms"]
 	path = plugin-forms
 	url = git://github.com/frontlinesms/frontlinesms-plugin-forms.git
@@ -16,9 +22,9 @@
 [submodule "plugin-template"]
 	path = plugin-template
 	url = git://github.com/frontlinesms/frontlinesms-plugin-template.git
-[submodule "dist"]
-	path = dist
-	url = git://github.com/frontlinesms/frontlinesms-dist.git
-[submodule "pom-parent"]
-	path = pom-parent
-	url = git://github.com/frontlinesms/frontlinesms-pom-parent.git
+[submodule "plugin-sync"]
+	path = plugin-sync
+	url = git@github.com:frontlinesms/frontlinesms-plugin-sync.git
+[submodule "service-skebby"]
+	path = service-skebby
+	url = git://github.com/frontlinesms/frontlinesms-service-skebby.git
